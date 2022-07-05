@@ -1,0 +1,62 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Java Program",
+      "request": "launch",
+      "mainClass": ""
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch lesson3",
+      "request": "launch",
+      "mainClass": "lesson3.lesson3",
+      "projectName": "JavaOOP_ad1b5686"
+    },
+    {
+      "type": "java",
+      "name": "Launch lesson4",
+      "request": "launch",
+      "mainClass": "lesson4.lesson4",
+      "projectName": "JavaOOP_ad1b5686"
+    },
+    {
+      "type": "java",
+      "name": "Launch lesson5",
+      "request": "launch",
+      "mainClass": "lesson5.lesson5",
+      "projectName": "JavaOOP_ad1b5686"
+    },
+    {
+      "type": "java",
+      "name": "Launch lesson6",
+      "request": "launch",
+      "mainClass": "lesson6.lesson6",
+      "projectName": "JavaOOP_ad1b5686"
+    },
+    {
+      "type": "java",
+      "name": "Launch UltraEmogiCombat",
+      "request": "launch",
+      "mainClass": "lesson7.UltraEmogiCombat",
+      "projectName": "JavaOOP_ad1b5686"
+    },
+    {
+      "type": "java",
+      "name": "Launch lesson7",
+      "request": "launch",
+      "mainClass": "lesson7.lesson7",
+      "projectName": "JavaOOP_ad1b5686"
+    }
+  ]
+}
